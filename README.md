@@ -37,4 +37,4 @@ Na start dostajemy bazowe środowisko, w którym można utworzyć podstawowe pro
 Żeby kod poprawnie działał należy stworzyć nowe środowisko oraz pobrać odpowiednie biblioteki. 
 Aby przyspieszyć ten proces umieściłem kopie środowiska użytego w prowadzonym projekcie w danym repozytorium o nazwie Environment_DeepLearning_GPU.yml
 lub pod tym linkiem:
-[srodowisko_anaconda](../Environment_DeepLearning_GPU.yml)
+[srodowisko_anaconda](..Environment_DeepLearning_GPU.yml)
