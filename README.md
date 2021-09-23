@@ -24,5 +24,5 @@ Następnie pokażę jak wykorzystać procesor GPU, który znacząco przyspiesza 
 
 Należy zacząć od pobrania odpowiedniej wersji anacondy z ich strony:
 [Anaconda link](https://www.anaconda.com/products/individual#Downloads)
-
+<img src="zdjecia/windows10.png" width="100" height="50">
 W moim przypadku była to wersja na Windowsa 64-bit
